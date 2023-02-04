@@ -1,1 +1,1 @@
-# RFC
+# RFC (Request for Comments)
