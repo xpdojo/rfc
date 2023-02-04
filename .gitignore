@@ -4,3 +4,6 @@
 
 *.txt
 !requirements.txt
+
+*.md
+!README.md
