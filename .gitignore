@@ -2,7 +2,7 @@
 
 *.html
 
-*.txt
+tools/*.txt
 !requirements.txt
 
 *.md
